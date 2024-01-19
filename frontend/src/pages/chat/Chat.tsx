@@ -9,7 +9,7 @@ import uuid from 'react-uuid';
 import { isEmpty } from "lodash-es";
 
 import styles from "./Chat.module.css";
-import Cayenta from "../../assets/Cayenta.png";
+import Cayenta from "../../assets/Cayenta.svg";
 
 
 import {
